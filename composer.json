@@ -15,7 +15,7 @@
   "require": {
     "php": "^8.0",
     "ext-xmlreader": "*",
-    "maxakawizard/json-collection-parser": "^1.7",
+    "maxakawizard/json-collection-parser": "dev-master",
     "tightenco/collect": "^5.0|^6.0|^7.0"
   },
 
